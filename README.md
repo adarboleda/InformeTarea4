@@ -25,9 +25,9 @@ Objetivo Específico
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 **SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
-1. Visualice y trace las siguientes combinaciones en serie-paralelo:
-(a) R1 en serie con la combinación en paralelo de R2 y R3
-(b) R1 en paralelo con la combinación en serie de R2 y R3
+1. Visualice y trace las siguientes combinaciones en serie-paralelo:                                                                                                             
+(a) R1 en serie con la combinación en paralelo de R2 y R3                                                                                                                         
+(b) R1 en paralelo con la combinación en serie de R2 y R3                                                                                                                         
 (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
 
 3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
