@@ -47,6 +47,18 @@ desde la fuente.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679237-c3a19269-9b65-4a28-a5ac-aab1e9eddbb7.png)
 
+**(a)**
+
+R1 y R4 están en serie con la combinación en paralelo de R2 y R3. 
+
+**(b)**
+
+R1 está en serie con la combinación en paralelo de R2, R3 y R4. 
+
+**(c)**
+
+La combinación en paralelo de R2 y R3 está en serie con la combinación en paralelo de R4 y R5. Todo esto está en paralelo con R1
+
 5. Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679285-5e972b6e-63e3-4872-9a24-ccc474b9b1c9.png)
