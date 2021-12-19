@@ -123,21 +123,21 @@ caída de voltaje.
 ![image](https://user-images.githubusercontent.com/93734334/146679388-5d2e12a9-b6e8-4561-83ee-daba30cd127a.png)
 **(a)**
 
-I1 = I4= 11.3mA, I2 = I3 = 5.64 mA,
-V1 = 633 mV, V2 = V3 = 564 mV, 
+I1 = I4= 11.3mA, I2 = I3 = 5.64 mA,                                                                                                                                               
+V1 = 633 mV, V2 = V3 = 564 mV,                                                                                                                                                   
 V4 = 305mV
 
 **(b)**
-
-I1 = 3.85 mA, I2 = 563 uA, 
-I3 = 1.16 mA, I4 = 2.13 mA, V1 = 2.62 V,
+  
+I1 = 3.85 mA, I2 = 563 uA,                                                                                                                                                       
+I3 = 1.16 mA, I4 = 2.13 mA, V1 = 2.62 V,                                                                                                                                         
 V2 = V3 = V4 = 383 mV
 
 **(c)**
 
-I1 = 5 mA, I2 = 303 mA, 
-I3 = 568 mA, I4 = 313 uA, 
-I5 = 558 mA, V1 = 5 V, 
+I1 = 5 mA, I2 = 303 mA,                                                                                                                                                           
+I3 = 568 mA, I4 = 313 uA,                                                                                                                                                         
+I5 = 558 mA, V1 = 5 V,                                                                                                                                                           
 V2 = V3 = 1.88 V, V4 = V5 = 3.13 V
 
 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66
@@ -208,7 +208,19 @@ Vsalida(con carga) = (R2||RL/R1+R2||RL)Vs
 Vsalida(con carga) = (53.03/56+53.03)15                                                                                                                                           
 **Vsalida(con carga) = 7.29V**
 
-27. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kÆ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+27. ¿Cuál de dos cargas, una de 10 kohm y otra de 47 kohm, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
+
+Vsalida = (R2/R1+R2)Vs
+
+Vsalida = (10/10+47)Vs                                                                                                                                                           
+Vsalida = 0.175Vs 
+
+Vsalida = (47/10+47)Vs                                                                                                                                                           
+Vsalida = 0.824Vs
+
+**Respuesta**
+ 
+ 47 kohm
 
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B.
 
