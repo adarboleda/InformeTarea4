@@ -71,6 +71,10 @@ La combinación en paralelo de R2 y R3 está en serie con la combinación en par
 
 ![image](https://user-images.githubusercontent.com/93734334/146679321-7821ab44-ba2b-4f4c-a65d-379995c64271.png)
 
+**Respuesta**
+
+![image](https://user-images.githubusercontent.com/93734334/146682894-a3600796-04f0-4627-9faa-fe952457ad27.png)
+
 **SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo**
 
 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
