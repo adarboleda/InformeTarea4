@@ -30,6 +30,18 @@ Objetivo Específico
 (b) R1 en paralelo con la combinación en serie de R2 y R3                                                                                                                         
 (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
 
+**(a)
+
+![image](https://user-images.githubusercontent.com/93734334/146680727-7f66fe23-c241-4220-8374-9b7405780235.png)
+
+**(b)
+
+![image](https://user-images.githubusercontent.com/93734334/146680884-441dbc28-91bb-4bb5-bf5b-f3b6ebfcc1bc.png)
+
+**(c)
+
+![image](https://user-images.githubusercontent.com/93734334/146681049-64ab256e-cc7f-4331-a736-4845761bfee0.png)
+
 3. En cada circuito de la figura 7-62, identifique las relaciones en serie-paralelo de los resistores vistas
 desde la fuente.
 
