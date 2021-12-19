@@ -121,6 +121,24 @@ RT=0.852
 caída de voltaje.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679388-5d2e12a9-b6e8-4561-83ee-daba30cd127a.png)
+**(a)**
+
+I1 = I4= 11.3mA, I2 = I3 = 5.64 mA,
+V1 = 633 mV, V2 = V3 = 564 mV, 
+V4 = 305mV
+
+**(b)**
+
+I1 = 3.85 mA, I2 = 563 uA, 
+I3 = 1.16 mA, I4 = 2.13 mA, V1 = 2.62 V,
+V2 = V3 = V4 = 383 mV
+
+**(c)**
+
+I1 = 5 mA, I2 = 303 mA, 
+I3 = 568 mA, I4 = 313 uA, 
+I5 = 558 mA, V1 = 5 V, 
+V2 = V3 = 1.88 V, V4 = V5 = 3.13 V
 
 13. Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66
 
