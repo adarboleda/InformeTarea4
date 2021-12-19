@@ -67,6 +67,8 @@ La combinación en paralelo de R2 y R3 está en serie con la combinación en par
 
 ![image](https://user-images.githubusercontent.com/93734334/146682087-0ed1ddd6-76e9-472c-8f06-18c85ef4b464.png)
 
+R5, R6, R7, R8, R9, R10 y R11 están en serie con la combinación en paralelo que, a su vez, está en paralela con la combinación en serie R1 y R3, y R2 y R4.
+
 7. Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c). La batería tiene que conectarse externa a la tarjeta.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679321-7821ab44-ba2b-4f4c-a65d-379995c64271.png)
