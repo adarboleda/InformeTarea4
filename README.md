@@ -24,21 +24,21 @@ Objetivo Específico
 ![image](https://user-images.githubusercontent.com/93734334/146678782-6422b395-94e7-4786-9de2-bf664362c29b.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-**SECCIÓN 7–1 Identificación de relaciones en serie-paralelo
+**SECCIÓN 7–1 Identificación de relaciones en serie-paralelo**
 1. Visualice y trace las siguientes combinaciones en serie-paralelo:                                                                                                             
 (a) R1 en serie con la combinación en paralelo de R2 y R3                                                                                                                         
 (b) R1 en paralelo con la combinación en serie de R2 y R3                                                                                                                         
 (c) R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores
 
-**(a)
+**(a)**
 
 ![image](https://user-images.githubusercontent.com/93734334/146680727-7f66fe23-c241-4220-8374-9b7405780235.png)
 
-**(b)
+**(b)**
 
 ![image](https://user-images.githubusercontent.com/93734334/146680884-441dbc28-91bb-4bb5-bf5b-f3b6ebfcc1bc.png)
 
-**(c)
+**(c)**
 
 ![image](https://user-images.githubusercontent.com/93734334/146681049-64ab256e-cc7f-4331-a736-4845761bfee0.png)
 
@@ -55,7 +55,7 @@ desde la fuente.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679321-7821ab44-ba2b-4f4c-a65d-379995c64271.png)
 
-**SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
+**SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo**
 
 9. Para cada uno de los circuitos mostrados en la figura 7-62, determine la resistencia total presentada a
 la fuente.
@@ -92,7 +92,7 @@ AB, BC y CD
 
 ![image](https://user-images.githubusercontent.com/93734334/146679604-482768d7-dadd-473e-a01e-7566cdc346ae.png)
 
-**SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
+**SECCIÓN 7–3 Divisores de voltaje con cargas resistivas**
 
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
 
