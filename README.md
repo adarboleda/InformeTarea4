@@ -155,9 +155,20 @@ SW1 abierto, SW2 cerrado: 300 ohm
 
 ![image](https://user-images.githubusercontent.com/93734334/146679472-199f1363-62d7-4576-b294-6d0aef6d6cfe.png)
 
+**Respuesta**
+
+VA =1 00V                                                                                                                                                                         
+VB = 61.5V                                                                                                                                                                       
+Vc = 15.7V                                                                                                                                                                       
+VD = 7.87V
+
 17. En la figura 7-68, ¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
 
 ![image](https://user-images.githubusercontent.com/93734334/146679489-70e42ca0-94ac-4a83-a130-c8a96b739b44.png)
+
+**Respuesta**
+
+Se debe medir el voltaje en A con respecto a tierra y el voltaje en B con respecto a tierra. La resta de esto es VR2.
 
 19. Determine la resistencia del circuito mostrado en la figura 7-68 como se ve desde la fuente de voltaje.
 
