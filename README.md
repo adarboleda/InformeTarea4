@@ -174,6 +174,15 @@ Se debe medir el voltaje en A con respecto a tierra y el voltaje en B con respec
 
 ![image](https://user-images.githubusercontent.com/93734334/146679511-ae62a459-fdaf-4439-b9a8-f776025b3d18.png)
 
+Req1 = 56 + 560 + 100
+Req1 = 716
+
+Req2 = 100 + 1000
+Req2 = 1100
+
+1/RT = 1/716 + 1/1100 + 1/1000
+**RT = 303 kohm**
+
 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679544-4f1f2395-413b-485a-90b8-91da6cd01693.png)
