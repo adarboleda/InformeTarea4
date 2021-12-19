@@ -196,6 +196,18 @@ AB, BC y CD
 
 25. Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
 
+Vsalida(sin carga) = (R2/R1+R2)VS                                                                                                                                                 
+Vsalida(sin carga) = (56/56+56)15                                                                                                                                                 
+**Vsalida(sin carga) = 7.5V** 
+
+R2||RL = R2RL/R2+RL                                                                                                                                                               
+R2||RL = ((56)(1000)/56+1000)15                                                                                                                                                   
+**R2||RL = 53.03** 
+
+Vsalida(con carga) = (R2||RL/R1+R2||RL)Vs                                                                                                                                         
+Vsalida(con carga) = (53.03/56+53.03)15                                                                                                                                           
+**Vsalida(con carga) = 7.29V**
+
 27. ¿Cuál de dos cargas, una de 10 kÆ y otra de 47 kÆ, provocará una disminución más pequeña en el voltaje de salida de un divisor de voltaje dado?
 
 29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B.
