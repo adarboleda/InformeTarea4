@@ -86,35 +86,35 @@ la fuente.
 
 **(a)**
 
-1/Req=1/R2+1/R3
-1/Req=1/100+1/100
+1/Req=1/R2+1/R3                                                                                                                                                                   
+1/Req=1/100+1/100                                                                                                                                                                 
 Req=50
 
-RT=R1+R4+Req
-RT=56+27+50
+RT=R1+R4+Req                                                                                                                                                                     
+RT=56+27+50                                                                                                                                                                       
 **RT=133 ohm**
 
 **(b)**
 
-1/Req=1/680+1/330+1/180
+1/Req=1/680+1/330+1/180                                                                                                                                                           
 Req=99.43
-
-RT=99.43+680
+  
+RT=99.43+680                                                                                                                                                                     
 **RT=779.43 ohm**
 
 **(c)**
 
-1/Req=1/6.2+1/3.3
+1/Req=1/6.2+1/3.3                                                                                                                                                                 
 Req=2.15
 
-1/Req=1/10+1/5.6
+1/Req=1/10+1/5.6                                                                                                                                                                 
 Req=3.59
 
-Req=2.15+3.59
+Req=2.15+3.59                                                                                                                                                                     
 Req=5.74
 
-1/RT=1/5.74+1/1.0
-RT=0.852
+1/RT=1/5.74+1/1.0                                                                                                                                                                 
+RT=0.852                                                                                                                                                                         
 **RT=852 ohm**
 
 11. Determine la corriente a través de cada resistor del circuito de la figura 7-62; calcule en seguida cada
@@ -174,13 +174,13 @@ Se debe medir el voltaje en A con respecto a tierra y el voltaje en B con respec
 
 ![image](https://user-images.githubusercontent.com/93734334/146679511-ae62a459-fdaf-4439-b9a8-f776025b3d18.png)
 
-Req1 = 56 + 560 + 100
+Req1 = 56 + 560 + 100                                                                                                                                                             
 Req1 = 716
 
-Req2 = 100 + 1000
+Req2 = 100 + 1000                                                                                                                                                                 
 Req2 = 1100
 
-1/RT = 1/716 + 1/1100 + 1/1000
+1/RT = 1/716 + 1/1100 + 1/1000                                                                                                                                                   
 **RT = 303 kohm**
 
 21. (a) Determine el valor de R2 en la figura 7-70. (b) Encuentre la potencia en R2.
