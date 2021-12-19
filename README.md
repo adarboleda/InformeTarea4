@@ -144,6 +144,13 @@ V2 = V3 = 1.88 V, V4 = V5 = 3.13 V
 
 ![image](https://user-images.githubusercontent.com/93734334/146679450-424a4eb0-544f-4b79-9145-fa37cda7553a.png)
 
+**Respuesta**
+
+SW1 cerrado, SW2 abierto: 220 ohm
+SW1 cerrado, SW2 cerrado: 200 ohm
+SW1 abierto, SW2 abierto: 320 ohm
+SW1 abierto, SW2 cerrado: 300 ohm
+
 15. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679472-199f1363-62d7-4576-b294-6d0aef6d6cfe.png)
