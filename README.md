@@ -92,8 +92,6 @@ AB, BC y CD
 
 4. VIDEO
 
-https://youtu.be/967ZfUdDjYE
-
 5. CONCLUSIONES
 
 6. BIBLIOGRAFÍA
