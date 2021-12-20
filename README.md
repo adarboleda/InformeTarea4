@@ -242,6 +242,8 @@ Vsalida(con carga) = (6.63/10+6.63)22
 
 5. CONCLUSIONES
 
+* Como conclusión se tiene que un circuito en serie-paralelo consiste en combinaciones de trayectorias para corriente dispuestas tanto en serie como en paralelo. De igual manera es de suma importante ser capaz de identificar la forma en que están organizados los componentes en un circuito en función de sus relaciones en serie y en paralelo.  Cabe recalcar que se puede resolver la mayoría de los problemas de análisis de circuitos resistivos si se conocen la ley de Ohm, las leyes de Kirchhoff, la fórmula del divisor de voltaje y la fórmula del divisor de corriente.
+* 
 6. BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
