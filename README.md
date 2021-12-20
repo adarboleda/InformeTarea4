@@ -243,7 +243,8 @@ Vsalida(con carga) = (6.63/10+6.63)22
 5. CONCLUSIONES
 
 * Como conclusión se tiene que un circuito en serie-paralelo consiste en combinaciones de trayectorias para corriente dispuestas tanto en serie como en paralelo. De igual manera es de suma importante ser capaz de identificar la forma en que están organizados los componentes en un circuito en función de sus relaciones en serie y en paralelo.  Cabe recalcar que se puede resolver la mayoría de los problemas de análisis de circuitos resistivos si se conocen la ley de Ohm, las leyes de Kirchhoff, la fórmula del divisor de voltaje y la fórmula del divisor de corriente.
-* 
+* Se sabe que los voltímetros deben conectarse en paralelo con un resistor para medir el voltaje entre los extremos del resistor. Debido a su resistencia interna, un voltímetro aplica carga al circuito el cual afecta en cierto grado el voltaje que se esté midiendo. Cabe mencionar que cuando la resistencia interna del voltímetro no es suficientemente más grande que la resistencia del circuito entre los extremos del cual está conectado, el efecto de carga hará que el voltaje medido sea menor que su valor real. 
+
 6. BIBLIOGRAFÍA
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
