@@ -187,10 +187,28 @@ Req2 = 1100
 
 ![image](https://user-images.githubusercontent.com/93734334/146679544-4f1f2395-413b-485a-90b8-91da6cd01693.png)
 
+**Respuesta
+
+**(a)**
+
+110 kohm
+
+**(b)**
+
+110 mW
+
 23. Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72:
 AB, BC y CD
 
 ![image](https://user-images.githubusercontent.com/93734334/146679604-482768d7-dadd-473e-a01e-7566cdc346ae.png)
+
+**Respuesta**
+
+RAB = 1.32 kohm  
+
+RBC = 1.32 kohm
+
+RCD = 0 ohm
 
 **SECCIÓN 7–3 Divisores de voltaje con cargas resistivas**
 
