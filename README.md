@@ -200,8 +200,8 @@ Vsalida(sin carga) = (R2/R1+R2)VS
 Vsalida(sin carga) = (56/56+56)15                                                                                                                                                 
 **Vsalida(sin carga) = 7.5V** 
 
-R2||RL = R2RL/R2+RL                                                                                                                                                               
-R2||RL = ((56)(1000)/56+1000)15                                                                                                                                                   
+R2||RL = R2RL/R2+RL                                                                                                                                                           
+R2||RL = (56)(1000)/56+1000                                                                                                                                                   
 **R2||RL = 53.03** 
 
 Vsalida(con carga) = (R2||RL/R1+R2||RL)Vs                                                                                                                                         
@@ -222,9 +222,21 @@ Vsalida = 0.824Vs
  
  47 kohm
 
-29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kÆ conectada entre A y B.
+29. En la figura 7-74, determine el voltaje de salida con una carga de 33 kohm conectada entre A y B.
 
 ![image](https://user-images.githubusercontent.com/93734334/146679706-4a3dd4f0-bd70-4fba-8735-406760c11b76.png)
+
+Req = R2+R3                                                                                                                                                                       
+Req = 5.6 + 2.7                                                                                                                                                                   
+Req = 8.3
+
+Req||RL = ReqRL/Req+RL                                                                                                                                                           
+Req||RL = 8.3(33)/8.3+33                                                                                                                                                         
+Req||RL = 6.63
+
+Vsalida(con carga) = (Req||RL/R1+Req||RL)Vs                                                                                                                                       
+Vsalida(con carga) = (6.63/10+6.63)22                                                                                                                                             
+**Vsalida(con carga) = 8.77V**
 
 4. VIDEO
 
