@@ -608,7 +608,7 @@ Rs=Vs/Is=1.6V/(8 A)
 
 * El puente de Wheatstone permite saber el valor de una resistencia con mayor exactitud y cuando se presenta el caso desequilibrado puede medir varios tipos de magnitud física.
 
-*Las conversiones de una fuente de voltaje con una fuente de corriente se aplica la ley de Ohm pero en este caso la resistencia de la formula hace referencia a la resistencia interna de la fuente de voltaje.
+* Las conversiones de una fuente de voltaje con una fuente de corriente se aplica la ley de Ohm pero en este caso la resistencia de la formula hace referencia a la resistencia interna de la fuente de voltaje.
 
 6. BIBLIOGRAFÍA
 
