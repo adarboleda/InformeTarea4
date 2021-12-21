@@ -277,90 +277,20 @@ Vsalida(con carga) = (Req||RL/R1+Req||RL)Vs
 Vsalida(con carga) = (6.63/10+6.63)22                                                                                                                                             
 **Vsalida(con carga) = 8.77V**
 
-*31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez.
-
-![imagen](https://user-images.githubusercontent.com/93879569/146949226-ba8f0112-dd50-4330-bd45-5ef99f807626.png)
-
-RT=(10 V)/(5 mA)=2 kΩ
-
-R1=R2+R3,siendo R2=R3
-
-R1=2*R2
-
-R1=2 kΩ,a su vez 4R2=2 kΩ
-
-Entonces
-
-RT=1/(1 kΩ+1/(0.5) kΩ)=0.333 kΩ
-
-I=10/(1 kΩ+0.5 kΩ+0.3 kΩ)=5.45 mA
-
-Ahora para calcular los voltajes de salida
-
-Vab=0.33 kΩ*5.45 mA 
-
-**Vab =1.79 V
-
-Var=(0.33+0.5) kΩ*5.45 mA 
-
-**Var =4.52 V
-
-*33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
-
-![imagen](https://user-images.githubusercontent.com/93879569/146949444-afc007f0-67c4-473e-a8e4-d9da18a464cd.png)
-
-Encuentre VG y VS
-
-VG=  R2/(R1+R2)=(270 kΩ)/(270 kΩ+2200 kΩ)
-
-**VG=1.75 V
-
-**Vs=(1.75+1.5)V=3.35 V
-
-Determine I1, I2, ID, e IS
-
-I1=  (16-1.75)V/(2.2 MΩ)
-
-**I1=6.48 μA
-
-Siendo I1 = I2 
-
-**I2=6.48 μA
-
-Is=(3.25 V)/(1.5 kΩ)  
-
-**Is=2.17 mA
-
-Siendo Is = ID
-
-**ID=2.17 mA
-
-Encuentre VDG y VDS
-
-VD=(16-2.17*4.7)V=5.8 V 
-
-VDG=(5.8-1.75)V
-
-**VDG=4.05 V
-
-VDS=(5.8-3.25)V
-
-**VDS=2.55 V
-
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
 (a) 1 V		(b) 10 V		(c) 100 V	(d) 1000 V
 
-**Respuesta: 1000 V
+**Respuesta: 1000 V**
 
 37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
 
 (a) ¿Qué intervalo se deberá utilizar?
 
-**Respuesta:  en el intervalo de 0.5 
+**Respuesta:  en el intervalo de 0.5** 
 
 (b)	¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
 
-**Respuesta: Se reduce en un  ≅ 1 mV
+**Respuesta: Se reduce en un  ≅ 1 mV**
 
 39. Para el circuito mostrado en la figura 7-77, calcule:
 
@@ -422,19 +352,19 @@ R=609.37 Ω
 
 1/R_T =1/677.88 Ω+1/609.37 Ω+1/20.55 Ω
 
-**R=271 Ω
+**R=271 Ω**
 
 (a) La corriente total suministrada por la fuente
 
 I=V/R=(60 V)/(271 Ω  )
 
-**I=0.22 A
+**I=0.22 A**
 
 (c) La corriente a través del resistor de 910 Ω  
 
 I_x=V/R_x =(60 V)/(910 Ω  )
 
-**I_x=0.0587 A
+**I_x=0.0587 A**
 
 (d) El voltaje desde el punto A hasta el punto B
 
@@ -442,7 +372,7 @@ V_x=V_s/R_T *R_x
 
 V_x=(60 V)/(271 Ω  )*218.75 Ω  
 
-**V_x=48.43 V
+**V_x=48.43 V**
 
 41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
 
@@ -501,11 +431,11 @@ R_T=37 Ω+20 Ω+12 Ω=69 Ω
 
 I=(30 V)/(69  Ω)
 
-**I=0.434 A
+**I=0.434 A**
 
 Vsalida=(30 V)/2
 
-**Vsalida=15 V
+**Vsalida=15 V**
 
 45. Repita el problema 44 para as siguientes condiciones
 
@@ -515,15 +445,15 @@ Respuesta: El voltaje con respecto al anterior ejercicio y sabiendo que
 
 Vsalida=  2R/4R*V
 
-**El voltaje es 9V
+**El voltaje es 9V**
 
 (b) SW3 y SW1 conectados a 12 V, SW2 y SW4 a tierra
 
-**Respuesta: 3.75 V
+**Respuesta: 3.75 V**
 
 (c) Todos los interruptores conectados a 12 V
 
-**Respuesta: 11.25 V
+**Respuesta: 11.25 V**
 
 47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Ω  para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mΩ , a 120,060 Ω , y los medidores a compresión disminuyen su resistencia en 60 Ω m, a 119.940 Ω , como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
 
@@ -546,13 +476,13 @@ R=560 Ω+470 Ω=1030
 
 Vsalida=  (2*4.64)/(4*4.64) Ω*12V=6.0
 
-**Respuesta: La lectura esta mal ya que hay un margen de error del 0.2.
+**Respuesta: La lectura esta mal ya que hay un margen de error del 0.2.**
 
 51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
 
 ![image](https://user-images.githubusercontent.com/93879569/146891412-9a419cd5-a904-4089-a78e-3abe32538b22.png)
 
-**Respuesta: El voltímetro del lado derecho marca cero voltios es decir existe una apertura en el circuito por consiguiente el resistor 3 debe ser el que está abierto.
+**Respuesta: El voltímetro del lado derecho marca cero voltios es decir existe una apertura en el circuito por consiguiente el resistor 3 debe ser el que está abierto.**
 
 53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
 
@@ -575,7 +505,7 @@ V1=3.81*2.6246
 
 V1=9.976 V
 
-**Respuesta: El resistor abierto será el resistor 4 debido a que sin necesidad de ocupar el resistor 4 el resultado del voltaje no varía
+**Respuesta: El resistor abierto será el resistor 4 debido a que sin necesidad de ocupar el resistor 4 el resultado del voltaje no varía**
 
 SECCIÓN 8–3 Conversiones de fuente
 
@@ -583,24 +513,269 @@ SECCIÓN 8–3 Conversiones de fuente
 
 I_s=(300 V)/(50 Ω)
 
-**I_(s )=6 A
+**I_(s )=6 A**
 	
 3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
 
 Rs=Vs/Is=1.6V/(8 A)
 
-**Rs=0.2 Ω
+**Rs=0.2 Ω**
 
 5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 k
 Ω. Conviértala en una fuente de voltaje equivalente.
 
-**Vs=0.6 A*1200 Ω=720 V
+**Vs=0.6 A*1200 Ω=720 V**
 
+SECCIÓN 8–4 El teorema de superposición 
 
+7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
+
+![image](https://user-images.githubusercontent.com/93733175/146944208-e5da6a13-610a-4cb3-9dac-0849c6b79923.png)
+
+![image](https://user-images.githubusercontent.com/93733175/146966643-9e8aba21-3aa2-4c08-8bda-317049f11275.png)
+
+**Respuesta**
+845 mA
+
+9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
+
+![image](https://user-images.githubusercontent.com/93733175/146944243-0de21bd6-e9f5-4e79-bd3b-a0ab0714ecd7.png)
+
+Reemplazando la fuente de corriente de 100 mA tenemos un nuevo circuito:
+
+Utilizando método de las mallas tenemos las siguientes ecuaciones:
+
+680I1+220(I1-I2 )+20=0
+
+220(I2-I1 )+300I2+470I2+20=0
+
+La solución al sistema de ecuación es:
+
+I1=- 0.0184 A
+
+I2=0.01563 
+
+A=15.6 mA 
+
+Ahora haremos un segundo análisis reemplazando la fuente de voltaje de 20V, y tenemos:
+
+I1=0.1 A
+
+680(I2-0.1)+220(I2-I3 )=0
+
+220(I3-I2 )+330I3+470I3=0
+
+La solución al sistema de ecuaciones es:
+
+I2=0.0798 A
+
+I3=0.172 A=17.2 mA
+
+Finalmente restamos las corrientes obtenidas que pasan por R3:
+
+IR3=17.2 mA-15.6 mA
+
+**IR3=1.6 mA**
+
+11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; de lo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kΩ, ¿cuál es el intervalo del voltaje de referencia?
+
+![image](https://user-images.githubusercontent.com/93733175/146947181-4b4a72af-2ec0-4d7c-9a88-af968db9813a.png)
+
+VR (max) = (R2+R3/R1+R2+R3)30V – 15V = (7.8 KΩ/12.5 KΩ)30V- 15V= **3.72V**
+
+VR (min) = (R3/R1+R2+R3)30V – 15V = (6.8 KΩ/12.5 KΩ)30V- 15V= **1.32V**
+
+13. Determine el voltaje del punto A al punto B en la figura 8-73.
+
+![image](https://user-images.githubusercontent.com/93733175/146947259-aa824cc0-a919-4920-920f-8d62df635c5d.png)
+
+R3 y R2 están en paralelo:
+
+Req1 = (33 kΩ * 56 kΩ) / (33 kΩ + 56 kΩ) = 20.76 kΩ
+
+Hallando VTH:
+
+VTH= (20.76 kΩ / (82 kΩ + 20.76 kΩ + 91 kΩ)) * (75V – 50V) = 9.28 V
+
+Por lo que tenemos:
+
+V=100V – 9.28V = **90.72V**
+
+15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+
+![image](https://user-images.githubusercontent.com/93733175/146947331-0717b2f9-d457-4077-af17-11a164e2a990.png)
+
+a)
+
+VTh = (5.6 kΩ / (10 kΩ + 5.6 kΩ)) * 32V = 11.49V
+
+Para hallar RTh se reemplaza el voltaje por un cortocircuito
+
+RTh = 10 kΩ + (10 kΩ * 5.6 kΩ) / (10 kΩ + 5.6 kΩ)*2 = 17.18 kΩ
+
+ITh = 11.49V / 17.18 kΩ = **2.28 mA**
+
+b) 
+
+VTh = (10 kΩ / (5.6 kΩ + 10 kΩ)) * 15V = 9.62V
+
+Para hallar RTh se reemplaza el voltaje por un cortocircuito
+
+RTh = 5.6 kΩ + (10 kΩ * 5.6 kΩ) / (10 kΩ + 5.6 kΩ)*2 = 12.78 kΩ
+
+ITh = 9.62V / 12.78 kΩ = **1.35 mA**
+
+SECCIÓN 8–5 Teorema de Thevenin
+
+17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-7.
+
+![image](https://user-images.githubusercontent.com/93733175/146947405-41755a60-f717-4d6f-90de-d52d280f75ac.png)
+
+Apartando RL
+
+VTh = (5.6 kΩ / (10 kΩ + 5.6 kΩ) ) *32V = 11.49V
+
+IRL = VTh / RL = 11.49V / 15 kΩ = 0.116 mA = **116 µA**
+
+19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+
+![image](https://user-images.githubusercontent.com/93733175/146947459-ceb4f909-2414-4efc-a343-6365745907e0.png)
+
+Utilizando análisis de nodos 
+
+(V1-1/100 Ω) + (V1/1200 Ω) + (V1-5/2200 Ω) = 0
+
+V1-1 + 100/1200 V1 + 100/2200(V1-5) = 0
+
+12V1 – 12 + V1 + 12/22 (V1-5) = 0
+
+264V1 – 264 + 22 V1 +12V1 -60= 0 
+
+298V1=324
+
+VS=1.08 V
+
+**VTh = (1.08 V)**
+
+Resistencia Equivalente 
+
+RTh = 100 Ω (1200) (2200) / 1200+2200 = **876.47 Ω**
+
+21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/93733175/146947507-16a7e82e-7266-439f-ada4-b76cb3683908.png)
+
+![image](https://user-images.githubusercontent.com/93733175/146957274-a94cf443-735e-4562-a674-7f0f3566f281.png)
+
+Voltaje Thevenin
+
+VTh= VA – VB = (2.2 KΩ / 3.2 KΩ) 12V – (1.2 KΩ / 2.02 KΩ) 12V= 1.12V
+
+Resistencia Thevenin
+
+RTh= (1/1/1 + 1/1/2.2) + (1/1/0.82) + (1/1/1.2) = 1.175 KΩ
+
+I1 = VTh / RTh +R1 = (1.12/1.175 + 10) = **100 µA**
+
+SECCIÓN 8–6 Teorema de Norton
+
+23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton visto por RL.
+
+![image](https://user-images.githubusercontent.com/93733175/146947575-e52b7330-065c-4069-8409-bc3e6bd840cf.png)
+
+a) IN = 100 mA 
+
+RN = 76.7 Ω
+
+b) IN = 11.1 mA 
+
+RN = 73 Ω
+
+c) IN = 50 µA 
+
+RN = 35.9 kΩ
+
+d) IN = 68.8 mA 
+
+RN = 1.3 kΩ
+
+25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+
+![image](https://user-images.githubusercontent.com/93733175/146947618-8f0241b4-42fc-4268-bd2c-5ef124a34e51.png)
+
+**Respuesta**
+
+17.9 V
+
+27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
+
+![image](https://user-images.githubusercontent.com/93733175/146947664-36465694-140d-4ae1-b555-abe0886f7054.png)
+
+IN= VTH / RTH = 1.12 V / 1175 Ω 
+
+IN = **953 µA**
+
+RN = RTH = **1175 Ω**
+
+29. Aplique el teorema de Norton al circuito de la figura 8-84.
+
+![image](https://user-images.githubusercontent.com/93733175/146947694-8e45b122-63a4-4446-a12f-c52148d42789.png)
+
+**Respuesta**
+
+IN = -48.2 mA
+
+RN = 56.9 Ω
+
+SECCIÓN 8–7 Teorema de transferencia de potencia máxima
+
+31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
+
+![image](https://user-images.githubusercontent.com/93733175/146947755-5f16b705-4242-4bdc-94fb-394b064f00f4.png)
+
+![image](https://user-images.githubusercontent.com/93733175/146961693-6b4ce125-3473-4245-acb7-3426c01dd05f.png)
+
+Rs= 8.2 Ω + 2.94 Ω = 11.1 Ω
+
+Para la transferencia máxima se tiene que:
+
+RL = Rs = **11.1 Ω**
+
+33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+
+![image](https://user-images.githubusercontent.com/93733175/146947883-12c40375-57c1-49a8-a6ec-c7ab47d1ee69.png)
+
+**Respuesta**
+
+RTH = 48 Ω
+
+R4 = 160 Ω
+
+SECCIÓN 8–8 Conversiones delta a Y (∆ a Y) y Y a ∆
+
+35. En la figura 8-89, convierta cada red Y en una red delta.
+
+![image](https://user-images.githubusercontent.com/93733175/146947963-8806deec-1f28-4261-b561-a46be1ae525c.png)
+
+a)
+
+En a 
+
+RA = R1R2+RIR3+R2R3/R2 = (12) (22) + (12) (18) + (22) (18) / (22) = 876/22 = 39.81Ω
+
+RB = R1R2+R1R3+R2R3/R1 = (12) (22) + (12) (18) + (22) (178) / (12) = 876/12 = 73Ω
+
+RC = R1R2+R1R3+R2R3/R3 = (12) (22) + (12) (18) + (22) (18) / (18) = 876/18 = 48.67Ω
+
+b)
+
+RA = R1R2+R1R3+R2R3/R2 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (3.3) = 69.61/3.3 = 21.18Ω
+
+RB= R1R2+R1R3+R2R3/R1 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (6.8) = 69.61/6.8= 10.28Ω
+
+RC = R1R2+R1R3+R2R3/R3 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (4.7) = 69.61/4.7 = 14.87Ω
 
 4. VIDEO
-
-https://youtu.be/ji6FaOYd_iY
 
 5. CONCLUSIONES
 
@@ -611,6 +786,10 @@ https://youtu.be/ji6FaOYd_iY
 * El puente de Wheatstone permite saber el valor de una resistencia con mayor exactitud y cuando se presenta el caso desequilibrado puede medir varios tipos de magnitud física.
 
 * Las conversiones de una fuente de voltaje con una fuente de corriente se aplica la ley de Ohm pero en este caso la resistencia de la formula hace referencia a la resistencia interna de la fuente de voltaje.
+
+* El teorema de superposición establece que el efecto de dos o más fuentes de voltaje tienen sobre un resistencia es igual, a la suma de cada uno de los efectos de cada fuente tomados por separado, sustituyendo todas las fuentes de voltaje restantes por un circuitos.
+
+* El teorema de Thevenin establece que cualquier red de corriente directa lineal bilateral de dos terminales puede ser reemplazada por un circuito equivalente que conste de una fuente de voltaje y un resistor en serie.
 
 6. BIBLIOGRAFÍA
 
