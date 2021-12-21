@@ -33,6 +33,16 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93879569/146889630-613cc84e-d8fe-4ff9-a813-397b5732b758.png)
 
+![image](https://user-images.githubusercontent.com/93733175/146943204-a7a092ad-d05e-449c-837f-7f0766716315.png)
+
+![image](https://user-images.githubusercontent.com/93733175/146943291-65bda36f-fefc-45b7-adc7-83c1d4241fed.png)
+
+![image](https://user-images.githubusercontent.com/93733175/146943354-cb4b1b0d-1942-41fc-a847-56f4624a1abe.png)
+
+![image](https://user-images.githubusercontent.com/93733175/146943399-b933407d-519d-4551-b75b-6a199e9db021.png)
+
+![image](https://user-images.githubusercontent.com/93733175/146943437-18253c36-4f6a-43f7-b7c4-eff0f9119612.png)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 **SECCIÓN 7–1 Identificación de relaciones en serie-paralelo**
