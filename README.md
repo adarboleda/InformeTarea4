@@ -23,6 +23,17 @@ Objetivo Específico
 
 ![image](https://user-images.githubusercontent.com/93734334/146678782-6422b395-94e7-4786-9de2-bf664362c29b.png)
 
+![image](https://user-images.githubusercontent.com/93879569/146889418-e20e01db-4d90-4221-9848-eba924808cb8.png)
+
+![image](https://user-images.githubusercontent.com/93879569/146889449-37adb2f2-5944-4c91-b7fe-f4dc33eb700b.png)
+
+![image](https://user-images.githubusercontent.com/93879569/146889556-d9cc546e-f759-4db3-8e84-b1fb960930c9.png)
+
+![image](https://user-images.githubusercontent.com/93879569/146889597-738061e3-643f-4349-93fa-d4424322270f.png)
+
+![image](https://user-images.githubusercontent.com/93879569/146889630-613cc84e-d8fe-4ff9-a813-397b5732b758.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 **SECCIÓN 7–1 Identificación de relaciones en serie-paralelo**
 1. Visualice y trace las siguientes combinaciones en serie-paralelo:                                                                                                             
@@ -256,12 +267,268 @@ Vsalida(con carga) = (Req||RL/R1+Req||RL)Vs
 Vsalida(con carga) = (6.63/10+6.63)22                                                                                                                                             
 **Vsalida(con carga) = 8.77V**
 
+35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
+(a) 1 V		(b) 10 V		(c) 100 V	(d) 1000 V
+
+**Respuesta: 1000 V
+
+37. El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
+
+(a) ¿Qué intervalo se deberá utilizar?
+
+**Respuesta:  en el intervalo de 0.5 
+
+(b)	¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+**Respuesta: Se reduce en un  ≅ 1 mV
+
+39. Para el circuito mostrado en la figura 7-77, calcule:
+
+![image](https://user-images.githubusercontent.com/93879569/146889962-43cea50e-4ed8-48aa-a6a2-27424e7e7b7c.png)
+
+La resistencia total entre las terminales de la fuente
+
+Calcular primero la resistencia del triángulo inferior del lado derecho.
+
+R=560Ω+560Ω 
+
+R=1120 Ω
+
+![image](https://user-images.githubusercontent.com/93879569/146890047-4de96c28-74f2-4993-9a9a-01fd22edac57.png)
+
+1/R=1/100 Ω+1/1120 Ω
+
+R=91.8 Ω
+
+![image](https://user-images.githubusercontent.com/93879569/146890126-07e1ee20-12f6-42c7-bb6a-25e6542062e4.png)
+
+R_1=(560 Ω*56 Ω)/(560 Ω+56 Ω+910 Ω)
+
+R_1=20.55 Ω 
+
+R_2=(910 Ω*56 Ω)/(560 Ω+56 Ω+910 Ω)
+
+R_2=33.39 Ω 
+
+R_3=(560 Ω*910 Ω)/(560 Ω+56 Ω+910 Ω)
+
+R_3=333.94 Ω 
+
+![image](https://user-images.githubusercontent.com/93879569/146890296-8e50d93f-64ef-477c-8d76-dd323f75695a.png)
+
+R_4=(1000 Ω*560 Ω)/(1000 Ω+1000 Ω+560 Ω)
+
+R_4=218.75 Ω 
+
+R_5=(1000 Ω*1000 Ω)/(1000 Ω+1000 Ω+560 Ω)
+
+R_5=390.62  Ω 
+
+R_6=(1000 Ω*560 Ω)/(1000 Ω+1000 Ω+560 Ω)
+
+R_6=218.75 Ω 
+
+![image](https://user-images.githubusercontent.com/93879569/146890343-7005d02f-2b29-49e7-9828-4db608013b09.png)
+
+R=91.8Ω+33.39Ω+218.75 
+R=343.94 Ω
+
+R=343.94Ω+333.94Ω 
+R=677.88 Ω
+
+R=218.75Ω+390.62Ω 
+R=609.37 Ω
+
+
+1/R_T =1/677.88 Ω+1/609.37 Ω+1/20.55 Ω
+
+**R=271 Ω
+
+(a) La corriente total suministrada por la fuente
+
+I=V/R=(60 V)/(271 Ω  )
+
+**I=0.22 A
+
+(c) La corriente a través del resistor de 910 Ω  
+
+I_x=V/R_x =(60 V)/(910 Ω  )
+
+**I_x=0.0587 A
+
+(d) El voltaje desde el punto A hasta el punto B
+
+V_x=V_s/R_T *R_x
+
+V_x=(60 V)/(271 Ω  )*218.75 Ω  
+
+**V_x=48.43 V
+
+41. Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79. Asimismo, calcule la corriente en cada rama con 10 V entre A y B.
+
+![image](https://user-images.githubusercontent.com/93879569/146890704-91f7df2d-98aa-468a-a5e4-9cc8760b50d1.png)
+
+R=680 Ω+100 Ω+100 Ω=880 Ω 
+1/R=1/(880 Ω)+1/(820 Ω)=424.47 Ω
+R=424.47 Ω+220 Ω+220 Ω=864.47 Ω 
+1/R=1/(864.47 Ω)+1/(820 Ω)=420.82 Ω
+R_T=420.82 Ω+100 Ω+100 Ω=620.82 Ω 
+Segunda ley de Kirchhoff la suma de las corrientes que entran es igual a la suma de las corrientes de salida.
+(10V-VA)/(100 Ω)=(VA-VC)/(820 Ω+100 Ω)+(VA-VB)/(220 Ω)
+1/10-VA/(100 Ω)=(VA-VC)/(920 Ω)+(VA-VB)/(220 Ω)
+1/10=VA/(100 Ω)+VA/(920 Ω)+VA/(220 Ω)-VC/(920 Ω)-VB/(220 Ω)
+791/50600 VA-VB/(220 Ω)-VC/(920 Ω)=1/10  
+
+(VA-VB)/(100 Ω)=VB/(680 Ω+2*100 Ω)+(VB-VC)/(820 Ω +220 Ω)
+VA/(100 Ω)-VB/(100 Ω)=VB/(880 Ω)+(VB-VC)/(1040 Ω)
+0=VA/(100 Ω)-(173 VB)/( 14300 Ω)-VC/1040Ω
+
+(VB-VC)/( 680 Ω+2*100 Ω)=(VC-VB)/(820 Ω)+(VC-VA)/(820 Ω )
+VB/(880 Ω)-VC/(880 Ω)=VC/(820 Ω)-VB/(820 Ω)+VC/(820 Ω)-VA/(820 Ω)
+0=-VA/(820 Ω)-(17 VB)/(  7216 Ω)+(129 VC)/36080Ω
+
+**I_(1)=0.0161 A
+I_(2)=0.00827 A
+I_(3)=0.00784 A
+I_(4)=0.00406A
+I_(5)=0.00378 A
+I_(6)=0.00378A
+I_(7)=0.00378A
+I_(8)=0.00784 A
+I_(9)=0.0161 A**
+
+43. Determine IT y VSALIDA en la figura 7-80.
+
+![image](https://user-images.githubusercontent.com/93879569/146890899-294b9229-9e30-4bcf-b599-bbafc12362e4.png)
+
+R=47 Ω+27 Ω=74 Ω 
+
+R=47 Ω+27 Ω=74 Ω
+
+1/R=1/(74 Ω)+1/( 74 Ω)=37 Ω
+
+R=22 Ω+18 Ω=40 Ω 
+
+R=22 Ω+18 Ω=40 Ω
+
+1/R=1/(40 Ω)+1/( 40 Ω)=20 Ω
+R=12 Ω+12 Ω=24 Ω 
+R=12 Ω+12 Ω=24 Ω
+1/R=1/(24 Ω)+1/( 24 Ω)=12 Ω
+
+
+R_T=37 Ω+20 Ω+12 Ω=69 Ω 
+
+I=(30 V)/(69  Ω)
+
+**I=0.434 A
+
+Vsalida=(30 V)/2
+
+**Vsalida=15 V
+
+45. Repita el problema 44 para as siguientes condiciones
+
+(a) SW3 y SW4 conectados a 12 V, SW1 y SW2 a tierra
+
+Respuesta: El voltaje con respecto al anterior ejercicio y sabiendo que
+
+Vsalida=  2R/4R*V
+
+**El voltaje es 9V
+
+(b) SW3 y SW1 conectados a 12 V, SW2 y SW4 a tierra
+
+**Respuesta: 3.75 V
+
+(c) Todos los interruptores conectados a 12 V
+
+**Respuesta: 11.25 V
+
+47. Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 Ω  para cada medidor (un valor estándar). Cuando se agrega una carga, los medidores a tensión incrementan su resistencia en 60 mΩ , a 120,060 Ω , y los medidores a compresión disminuyen su resistencia en 60 Ω m, a 119.940 Ω , como se muestra en la figura 7-82. ¿Cuál es el voltaje de salida con carga?
+
+![image](https://user-images.githubusercontent.com/93879569/146891208-fba2f109-9beb-468f-9f7c-98851e1917cc.png)
+
+
+Vsalida=∆Rtension  Vs/(4*R)
+
+Vsalida=60*12V/(4*240)
+
+Vsalida=6 V,lado erecho positivo 
+
+49. ¿Es correcta la lectura del voltímetro de la figura 7-84?
+
+![image](https://user-images.githubusercontent.com/93879569/146891296-7467c124-ede4-412d-9525-a7baa29e58dd.png)
+
+R=560 Ω+470 Ω=1030
+
+1/RT=1/(1030 Ω)+1/(680 Ω)+1/(4.7 Ω)=4.64
+
+Vsalida=  (2*4.64)/(4*4.64) Ω*12V=6.0
+
+**Respuesta: La lectura esta mal ya que hay un margen de error del 0.2.
+
+51. En la figura 7-86 hay una falla. Con base en las indicaciones del medidor, determine cuál es la falla.
+
+![image](https://user-images.githubusercontent.com/93879569/146891412-9a419cd5-a904-4089-a78e-3abe32538b22.png)
+
+**Respuesta: El voltímetro del lado derecho marca cero voltios es decir existe una apertura en el circuito por consiguiente el resistor 3 debe ser el que está abierto.
+
+53. Revise las lecturas de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+
+![image](https://user-images.githubusercontent.com/93879569/146891472-dad352c2-64a2-4517-92c8-576188242023.png)
+
+Requivalente1=1 + 2.2
+Re1= 3.2 kΩ
+
+Requivalente2= 1/ (1/3.2 kΩ + 1/3.3)
+Re2= 1.6246 kΩ
+
+RT=1 + 1.6246
+RT= 2.6246 kΩ
+
+IT=10/2.62
+
+IT=3.81mA
+
+V1=3.81*2.6246
+
+V1=9.976 V
+
+**Respuesta: El resistor abierto será el resistor 4 debido a que sin necesidad de ocupar el resistor 4 el resultado del voltaje no varía
+
+SECCIÓN 8–3 Conversiones de fuente
+
+1. Una fuente de voltaje tiene los valores VS  300 V y RS  50 Ω. Conviértala en una fuente de corriente equivalente.
+
+I_s=(300 V)/(50 Ω)
+
+**I_(s )=6 A
+	
+3. Una batería tipo D nueva tiene entre sus terminales un voltaje de 1.6 V y puede suministrar hasta 8.0 A a un cortocircuito durante muy poco tiempo. ¿Cuál es la resistencia interna de la batería?
+
+Rs=Vs/Is=1.6V/(8 A)
+
+**Rs=0.2 Ω
+
+5. Una fuente de corriente tiene una IS de 600 mA y una RS de 1.2 k
+Ω. Conviértala en una fuente de voltaje equivalente.
+
+**Vs=0.6 A*1200 Ω=720 V
+
+
+
 4. VIDEO
 
 5. CONCLUSIONES
 
 * Como conclusión se tiene que un circuito en serie-paralelo consiste en combinaciones de trayectorias para corriente dispuestas tanto en serie como en paralelo. De igual manera es de suma importante ser capaz de identificar la forma en que están organizados los componentes en un circuito en función de sus relaciones en serie y en paralelo.  Cabe recalcar que se puede resolver la mayoría de los problemas de análisis de circuitos resistivos si se conocen la ley de Ohm, las leyes de Kirchhoff, la fórmula del divisor de voltaje y la fórmula del divisor de corriente.
+
 * Se sabe que los voltímetros deben conectarse en paralelo con un resistor para medir el voltaje entre los extremos del resistor. Debido a su resistencia interna, un voltímetro aplica carga al circuito el cual afecta en cierto grado el voltaje que se esté midiendo. Cabe mencionar que cuando la resistencia interna del voltímetro no es suficientemente más grande que la resistencia del circuito entre los extremos del cual está conectado, el efecto de carga hará que el voltaje medido sea menor que su valor real. 
+
+* El puente de Wheatstone permite saber el valor de una resistencia con mayor exactitud y cuando se presenta el caso desequilibrado puede medir varios tipos de magnitud física.
+
+*Las conversiones de una fuente de voltaje con una fuente de corriente se aplica la ley de Ohm pero en este caso la resistencia de la formula hace referencia a la resistencia interna de la fuente de voltaje.
 
 6. BIBLIOGRAFÍA
 
