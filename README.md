@@ -277,6 +277,76 @@ Vsalida(con carga) = (Req||RL/R1+Req||RL)Vs
 Vsalida(con carga) = (6.63/10+6.63)22                                                                                                                                             
 **Vsalida(con carga) = 8.77V**
 
+*31. Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones: la corriente extraída de la fuente sin carga no debe exceder de 5 mA; el voltaje de fuente tiene que ser de 10 V, y las salidas requeridas deben ser de 5 y 2.5 V. Trace el circuito. Determine el efecto en los voltajes de salida si se conecta una carga de 1.0 kΩ a cada toma, una a la vez.
+
+![imagen](https://user-images.githubusercontent.com/93879569/146949226-ba8f0112-dd50-4330-bd45-5ef99f807626.png)
+
+RT=(10 V)/(5 mA)=2 kΩ
+
+R1=R2+R3,siendo R2=R3
+
+R1=2*R2
+
+R1=2 kΩ,a su vez 4R2=2 kΩ
+
+Entonces
+
+RT=1/(1 kΩ+1/(0.5) kΩ)=0.333 kΩ
+
+I=10/(1 kΩ+0.5 kΩ+0.3 kΩ)=5.45 mA
+
+Ahora para calcular los voltajes de salida
+
+Vab=0.33 kΩ*5.45 mA 
+
+**Vab =1.79 V
+
+Var=(0.33+0.5) kΩ*5.45 mA 
+
+**Var =4.52 V
+
+*33. La figura 7-76 muestra un circuito polarizador de cd para un amplificador de transistor de efecto de campo. La polarización es un método común empleado para establecer ciertos niveles de voltaje de cd para la operación apropiada de un amplificador. Aunque no se espera que usted conozca los amplificadores con transistores en este momento, los voltajes y las corrientes de cd presentes en el circuito pueden ser determinados con métodos ya conocidos.
+
+![imagen](https://user-images.githubusercontent.com/93879569/146949444-afc007f0-67c4-473e-a8e4-d9da18a464cd.png)
+
+Encuentre VG y VS
+
+VG=  R2/(R1+R2)=(270 kΩ)/(270 kΩ+2200 kΩ)
+
+**VG=1.75 V
+
+**Vs=(1.75+1.5)V=3.35 V
+
+Determine I1, I2, ID, e IS
+
+I1=  (16-1.75)V/(2.2 MΩ)
+
+**I1=6.48 μA
+
+Siendo I1 = I2 
+
+**I2=6.48 μA
+
+Is=(3.25 V)/(1.5 kΩ)  
+
+**Is=2.17 mA
+
+Siendo Is = ID
+
+**ID=2.17 mA
+
+Encuentre VDG y VDS
+
+VD=(16-2.17*4.7)V=5.8 V 
+
+VDG=(5.8-1.75)V
+
+**VDG=4.05 V
+
+VDS=(5.8-3.25)V
+
+**VDS=2.55 V
+
 35. ¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
 (a) 1 V		(b) 10 V		(c) 100 V	(d) 1000 V
 
