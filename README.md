@@ -532,8 +532,6 @@ SECCIÓN 8–4 El teorema de superposición
 
 ![image](https://user-images.githubusercontent.com/93733175/146944208-e5da6a13-610a-4cb3-9dac-0849c6b79923.png)
 
-![image](https://user-images.githubusercontent.com/93733175/146966643-9e8aba21-3aa2-4c08-8bda-317049f11275.png)
-
 **Respuesta**
 845 mA
 
@@ -542,6 +540,8 @@ SECCIÓN 8–4 El teorema de superposición
 ![image](https://user-images.githubusercontent.com/93733175/146944243-0de21bd6-e9f5-4e79-bd3b-a0ab0714ecd7.png)
 
 Reemplazando la fuente de corriente de 100 mA tenemos un nuevo circuito:
+
+![image](https://user-images.githubusercontent.com/93733175/147185285-097ecee1-04ca-45d9-b0cf-8f2fe2019103.png)
 
 Utilizando método de las mallas tenemos las siguientes ecuaciones:
 
@@ -558,6 +558,8 @@ I2=0.01563
 A=15.6 mA 
 
 Ahora haremos un segundo análisis reemplazando la fuente de voltaje de 20V, y tenemos:
+
+![image](https://user-images.githubusercontent.com/93733175/147185302-e81de9ae-ed2d-4a82-93de-b136d682165f.png)
 
 I1=0.1 A
 
@@ -665,8 +667,6 @@ RTh = 100 Ω (1200) (2200) / 1200+2200 = **876.47 Ω**
 
 ![image](https://user-images.githubusercontent.com/93733175/146947507-16a7e82e-7266-439f-ada4-b76cb3683908.png)
 
-![image](https://user-images.githubusercontent.com/93733175/146957274-a94cf443-735e-4562-a674-7f0f3566f281.png)
-
 Voltaje Thevenin
 
 VTh= VA – VB = (2.2 KΩ / 3.2 KΩ) 12V – (1.2 KΩ / 2.02 KΩ) 12V= 1.12V
@@ -675,7 +675,7 @@ Resistencia Thevenin
 
 RTh= (1/1/1 + 1/1/2.2) + (1/1/0.82) + (1/1/1.2) = 1.175 KΩ
 
-I1 = VTh / RTh +R1 = (1.12/1.175 + 10) = **100 µA**
+I1 = VTh / RTh + R1 = (1.12/1.175 + 10) = **100 µA**
 
 SECCIÓN 8–6 Teorema de Norton
 
@@ -733,8 +733,6 @@ SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
 ![image](https://user-images.githubusercontent.com/93733175/146947755-5f16b705-4242-4bdc-94fb-394b064f00f4.png)
 
-![image](https://user-images.githubusercontent.com/93733175/146961693-6b4ce125-3473-4245-acb7-3426c01dd05f.png)
-
 Rs= 8.2 Ω + 2.94 Ω = 11.1 Ω
 
 Para la transferencia máxima se tiene que:
@@ -761,19 +759,19 @@ a)
 
 En a 
 
-RA = R1R2+RIR3+R2R3/R2 = (12) (22) + (12) (18) + (22) (18) / (22) = 876/22 = 39.81Ω
+RA = R1R2+RIR3+R2R3/R2 = (12) (22) + (12) (18) + (22) (18) / (22) = 876/22 = **39.81Ω**
 
-RB = R1R2+R1R3+R2R3/R1 = (12) (22) + (12) (18) + (22) (178) / (12) = 876/12 = 73Ω
+RB = R1R2+R1R3+R2R3/R1 = (12) (22) + (12) (18) + (22) (178) / (12) = 876/12 = **73Ω**
 
-RC = R1R2+R1R3+R2R3/R3 = (12) (22) + (12) (18) + (22) (18) / (18) = 876/18 = 48.67Ω
+RC = R1R2+R1R3+R2R3/R3 = (12) (22) + (12) (18) + (22) (18) / (18) = 876/18 = **48.67Ω**
 
 b)
 
-RA = R1R2+R1R3+R2R3/R2 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (3.3) = 69.61/3.3 = 21.18Ω
+RA = R1R2+R1R3+R2R3/R2 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (3.3) = 69.61/3.3 = **21.18Ω**
 
-RB= R1R2+R1R3+R2R3/R1 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (6.8) = 69.61/6.8= 10.28Ω
+RB= R1R2+R1R3+R2R3/R1 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (6.8) = 69.61/6.8= **10.28Ω**
 
-RC = R1R2+R1R3+R2R3/R3 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (4.7) = 69.61/4.7 = 14.87Ω
+RC = R1R2+R1R3+R2R3/R3 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (4.7) = 69.61/4.7 = **14.87Ω**
 
 4. VIDEO
 
