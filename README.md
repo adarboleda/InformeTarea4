@@ -531,9 +531,30 @@ SECCIÓN 8–4 El teorema de superposición
 7. Con el método de superposición, encuentre la corriente a través de R5 en la figura 8-69.
 
 ![image](https://user-images.githubusercontent.com/93733175/146944208-e5da6a13-610a-4cb3-9dac-0849c6b79923.png)
+![image](https://user-images.githubusercontent.com/93733175/147267700-9a893516-3355-42de-a070-c33819b4d368.png)
+
+R3,4,5 = (1(2.2) / 1+2.2) + 1 = 0.69 + 1 = 1.69
+
+RT = (1.69) (2.2) / (1.69) + (2.2) + 1 = 1.69 kΩ = 1960 Ω
+
+IT = 2/1960 = 0.001 A
+
+I5(1) = (1960/2200) * 0.001=0.00089A= 0.89mA
+
+![image](https://user-images.githubusercontent.com/93733175/147267752-d2cd11dd-647e-4158-aeb1-cf96b07c8f37.png)
+
+R1,2,3 = ((1) (2.2) /1+2.2) + 1=1.69
+
+RT = ((1.69) (2.2) / 1.69+2.2) +1 = 1.96 kΩ = 1960 Ω
+
+IT = 3/1960 = 0.0015 A
+
+I5(2) = (950/2200) 0.0015 = 0.00065 A = 0.65 mA
 
 **Respuesta**
-845 mA
+
+I5 = 0.65 + 0.89 = 1.54 mA
+
 
 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
 
