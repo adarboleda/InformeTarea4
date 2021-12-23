@@ -796,6 +796,8 @@ RC = R1R2+R1R3+R2R3/R3 = (6.8) (3.3) + (6.8) (4.7) + (3.3) (4.7) / (4.7) = 69.61
 
 4. VIDEO
 
+https://youtu.be/ji6FaOYd_iY
+
 5. CONCLUSIONES
 
 * Como conclusión se tiene que un circuito en serie-paralelo consiste en combinaciones de trayectorias para corriente dispuestas tanto en serie como en paralelo. De igual manera es de suma importante ser capaz de identificar la forma en que están organizados los componentes en un circuito en función de sus relaciones en serie y en paralelo.  Cabe recalcar que se puede resolver la mayoría de los problemas de análisis de circuitos resistivos si se conocen la ley de Ohm, las leyes de Kirchhoff, la fórmula del divisor de voltaje y la fórmula del divisor de corriente.
